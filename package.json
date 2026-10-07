@@ -1,0 +1,21 @@
+{
+  "name": "portfoliodemo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "crypto": "^1.0.1",
+    "express": "^5.2.1",
+    "joi": "^18.2.8",
+    "jsonwebtoken": "^9.0.3",
+    "mysql2": "^3.23.3",
+    "nodemailer": "^9.0.5"
+  }
+}
